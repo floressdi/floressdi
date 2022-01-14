@@ -1,9 +1,10 @@
-### Hola, mi nombre es Diego Flores 👋 👨🏽‍💻
+### Hola, Soy Diego Flores 👋 👨🏽‍💻
 
-[![Instagram]]
 
-![tumblr_mup3qzOPsX1rk0k2jo1_500](https://user-images.githubusercontent.com/74226649/149273224-08d5259f-cab0-4006-b86e-255deeb306f3.gif)
 
+
+
+![BannerGithub](https://user-images.githubusercontent.com/74226649/149588601-117c73e4-7631-4061-9d84-31b1087e9056.png)
 
 
 
