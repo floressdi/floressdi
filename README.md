@@ -1,12 +1,5 @@
-### Hola, Soy Diego Flores 👋 👨🏽‍💻
+### Hola, Soy Diego👋 👨🏽‍💻
 
 
-
-
-
-![BannerGithub](https://user-images.githubusercontent.com/74226649/149588601-117c73e4-7631-4061-9d84-31b1087e9056.png)
-
-
-
-
+![BannerGithub](https://user-images.githubusercontent.com/74226649/149603338-d4824760-f968-4f61-b2d4-ef62d2117b71.png)
 
