@@ -17,3 +17,6 @@
 ## I dont know
 ![BannerGithub2](https://www.actualidadgadget.com/wp-content/uploads/2018/02/t-rex-gif.gif)
 
+                  ### Socials
+                  
+                  <p align="left"> <a href="https://www.twitter.com/floressdi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
