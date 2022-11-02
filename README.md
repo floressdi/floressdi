@@ -4,7 +4,7 @@
 ### Freelance | Front End Developer
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=floressdi&count_private=true&show_icons=true&theme=bear)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=floressdi&show_icons=true&theme=bear)
 
 
 ## Official Education 👨🏾‍🎓
