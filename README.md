@@ -1,7 +1,7 @@
 
 
 # Hi! I'm Diego!👋 👨🏽‍💻
-### Freelance | Front End Developer
+### Front End Developer in process
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=floressdi&show_icons=true&theme=bear)
