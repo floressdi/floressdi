@@ -1,7 +1,8 @@
 
 
-# Hi! I'm Diego!👋 💮
-### Front End Developer in process
+# Hi! I'm Diego!👋
+### Front End Developer 
+/media/dubrovnik/960GB/DIEGO AF CANAL/Logo/floresdevlogo1
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=floressdi&show_icons=true&theme=bear)
