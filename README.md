@@ -10,7 +10,7 @@
 ## Official Education 👨🏾‍🎓
 2018-2021 | Graduated from the Industrial and Services Technology Baccalaureate Center number 103.
 
-2021-2022 | Attending university.
+2021-2023 | Attending university.
 
 
 
