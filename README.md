@@ -1,6 +1,11 @@
 
 
 # Hi! I'm Diego!👋
+
+![octocat-1686246737358](https://github.com/floressdi/floressdi/assets/74226649/b7bb22b5-513f-43fb-a5d6-60c71dd2af38)
+
+
+
 ### Front End Developer 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=floressdi&show_icons=true&theme=bear)
