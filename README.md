@@ -2,13 +2,10 @@
 
 # Hi! I'm Diego!👋
 
+ ![octocat-1686246737358](https://github.com/floressdi/floressdi/assets/74226649/75e755f8-f930-4db8-97a6-eca68bfae563)
 
-<a>
-    <img width="48" height="48" src="https://github.com/floressdi/floressdi/assets/74226649/b7bb22b5-513f-43fb-a5d6-60c71dd2af38">  
-   </img>
-</a>
-![octocat-1686246737358](https://github.com/floressdi/floressdi/assets/74226649/b7bb22b5-513f-43fb-a5d6-60c71dd2af38)
 
+<img>
 
 
 ### Front End Developer 
