@@ -2,6 +2,11 @@
 
 # Hi! I'm Diego!👋
 
+
+<a>
+    <img width="48" height="48" src="https://github.com/floressdi/floressdi/assets/74226649/b7bb22b5-513f-43fb-a5d6-60c71dd2af38">  
+   </img>
+</a>
 ![octocat-1686246737358](https://github.com/floressdi/floressdi/assets/74226649/b7bb22b5-513f-43fb-a5d6-60c71dd2af38)
 
 
