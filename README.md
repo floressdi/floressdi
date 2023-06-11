@@ -2,7 +2,8 @@
 
 # Hi! I'm Diego!👋
 
- ![octocat-1686246737358](https://github.com/floressdi/floressdi/assets/74226649/75e755f8-f930-4db8-97a6-eca68bfae563)
+
+<img align ='right' src="https://github.com/floressdi/floressdi/assets/74226649/75e755f8-f930-4db8-97a6-eca68bfae563" width="230">
 
 
 <img>
