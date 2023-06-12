@@ -3,7 +3,7 @@
 # Hi! I'm Diego!👋
 
 
-<img align ='right' src="https://github.com/floressdi/floressdi/assets/74226649/75e755f8-f930-4db8-97a6-eca68bfae563" width="230">
+<img align ='right' src="https://github.com/floressdi/floressdi/assets/74226649/75e755f8-f930-4db8-97a6-eca68bfae563" width="200">
 
 
 <img>
