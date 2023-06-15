@@ -9,7 +9,7 @@
 <img>
 
 
-### Estudiando Desarollo Fron-tend
+### Learning Fron-tend
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=floressdi&show_icons=true&theme=bear)
 
